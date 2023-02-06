@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/js-411-hackathon/static/css/main.c0d2b15f.css",
+    "main.js": "/js-411-hackathon/static/js/main.aae8aa7b.js",
+    "static/js/787.86e45a0d.chunk.js": "/js-411-hackathon/static/js/787.86e45a0d.chunk.js",
+    "static/media/acanews.png": "/js-411-hackathon/static/media/acanews.cdd1ffc831b6a52dd659.png",
+    "index.html": "/js-411-hackathon/index.html",
+    "main.c0d2b15f.css.map": "/js-411-hackathon/static/css/main.c0d2b15f.css.map",
+    "main.aae8aa7b.js.map": "/js-411-hackathon/static/js/main.aae8aa7b.js.map",
+    "787.86e45a0d.chunk.js.map": "/js-411-hackathon/static/js/787.86e45a0d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0d2b15f.css",
+    "static/js/main.aae8aa7b.js"
+  ]
+}
