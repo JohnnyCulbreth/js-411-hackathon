@@ -15,14 +15,14 @@ header {
 }
 
 header img {
-  width: 10vw;
+  width: 14vw;
   margin-right: 20px;
-  margin-top: -8px;
-  margin-bottom: -8px;
+  margin-top: -10px;
+  margin-bottom: -10px;
 }
 
 input {
-  width: 70vw;
+  width: 65vw;
   box-sizing: border-box;
   border: none;
   font-size: 15px;
