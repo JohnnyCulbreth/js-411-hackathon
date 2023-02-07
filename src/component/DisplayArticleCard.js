@@ -15,7 +15,7 @@ function DisplayArticleCard(props) {
       </div>
       <div class='articleFooter'>
         <div>
-          {points} Points | {author} | {date} | {comments} Comments
+          {points} Points | by {author} | {date} | {comments} Comments
         </div>
       </div>
     </li>
